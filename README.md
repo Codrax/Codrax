@@ -78,10 +78,6 @@
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 <div align="center">
   <h2>Visitors counter</h2>
   <br/>
