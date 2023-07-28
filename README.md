@@ -49,10 +49,20 @@
 </div>
 <div>
   <h2>Find me here! :)</h2>
-  
-[![Twitter: LAVAplanks](https://img.shields.io/twitter/follow/LAVAplanks)](https://twitter.com/LAVAplanks)
-[![Twitter: LAVAplanks](https://img.shields.io/youtube/channel/subscribers/UCdXU8fD7IUSs3Eh1GCXF1Cw
-)]([https://twitter.com/LAVAplanks](https://www.youtube.com/Lavatechnology))
+
+  <a href="https://www.codrutsoft.com/">
+    <img align="left" src="https://github-production-user-asset-6210df.s3.amazonaws.com/68193064/256866832-3ac414cc-dac0-49b4-8c11-e1491c1461c6.png" height="50" />
+  </a>&nbsp;
+  <a href="https://www.twitter.com/LAVAplanks">
+    <img align="left" src="https://github-production-user-asset-6210df.s3.amazonaws.com/68193064/256866829-c47e067f-1769-47ed-b70a-02e4cf472ff2.png" height="50" />
+  </a>&nbsp;
+  <a href="https://www.youtube.com/@LavaTechnology">
+    <img align="left" src="https://github-production-user-asset-6210df.s3.amazonaws.com/68193064/256866824-6d03ef98-4aa9-4377-8be4-b45e510d570b.png" height="50" />
+  </a>&nbsp;
+  <a href="https://www.threads.net/@codrutcat">
+    <img align="left" src="https://github-production-user-asset-6210df.s3.amazonaws.com/68193064/256866827-8e9ebde9-0c77-454a-a6bc-1deb4624d72a.png" height="50" />
+  </a>&nbsp;
+
 </div>
 
 <br>
