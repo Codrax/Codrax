@@ -26,7 +26,7 @@
   <br>
   <br>
   <a href="https://github.com/Codrax/CodrutFluentDesignSystem">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Codrax&repo=CodrutFluentDesignSystem&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Codrax&repo=Codrut-Fluent-Design-System&theme=dark" />
   </a>
   &nbsp;
   <a href="https://github.com/Codrax/CodrutsVisualLibrary">
