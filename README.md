@@ -1,5 +1,5 @@
 <h1> 
-  Hello! I'm Codrut. Welcome to my github profile
+  Hello! I'm Codrut. Welcome to my github profile!
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenA2bTN4cTVzZDc3NXg3Y2htZjdqODhnYXA0bmVzamJ6dGQ4ZnBxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tn3Ej47sHXpgaxn3FZ/giphy.gif" width="50">
 </h1>
 <div align="left">
