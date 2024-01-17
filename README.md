@@ -98,7 +98,6 @@
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/68193064/297491088-326fed33-431d-4955-8b1a-9a2b94db79fe.png" height="48" />
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/68193064/297493761-fef43e61-2667-4b54-a053-d1b57f80d6e9.png" height="48" />
   </p>
-  <br>
 </div>
 <div align="center">
   <h2 align="left">Visitors counter</h2>
