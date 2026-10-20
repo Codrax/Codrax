@@ -1,10 +1,10 @@
 <h1> 
-  Hello! I'm Codrut. Welcome to my github profile!
+  Hey! I'm Codrut. Welcome to my GitHub!
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenA2bTN4cTVzZDc3NXg3Y2htZjdqODhnYXA0bmVzamJ6dGQ4ZnBxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tn3Ej47sHXpgaxn3FZ/giphy.gif" width="50">
 </h1>
 <div>
   <img align="left" src="https://github.com/Codrax/Codrax/assets/68193064/ff3c48f6-6ae4-49c6-83b8-8cd433582442" height="200" />
-  <h3>I am a software developer, somewhat of a website designer, a cat lover, and a person who likes playing games! :)</h3>
+  <h3>I am a software developer, somewhat of a website designer, a cat lover, and a person who likes playing games! ツ</h3>
   <p>
     Technically I am also a "full-stack" developer, since I developed back-end servers with a front-end graphical user interface, 
     but I primarily enjoy making independent apps, utilities, sites and games. I also like sharing my work on GitHub, check some of my repositories down below!
